@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /administrado/
+Disallow: /servotablo/
+Disallow: /image/
+Disallow: /img/
+Disallow: /common/
+Disallow: /mail/
+Disallow: /project/
+Disallow: /sccs/
+Disallow: /plugin/
+Disallow: /ext/
+Disallow: /filemanager/
